@@ -20,3 +20,5 @@ implementacion (TokenGeneratorSvcImpl) y de hecho podrias hacer literal un copy 
 seria mas que suficiente pero todo lo demas es como deberia de ser, donde incluyes pruebas, haces uso de
 dependencias (Maven), este es un proyecto Maven hecho usando SpringBoot aunque eso es solamente
 algo extra como te comento tu foco son las 2 clases que te menciono, hechale un ojo y me dices ;)
+
+Este proyecto fue generado usando Java 11 para que lo tengas en cuenta.
